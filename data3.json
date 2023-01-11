@@ -1,0 +1,34 @@
+[
+    {
+        "anrede": "Frau",
+        "name": "Marie Luise Kaschnitz",
+        "ort": "Paris",
+        "geburtstag": "1995.01.26",
+        "motto": "Wer liebt, der lebt.",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, pariatur veritatis iure expedita ducimus nihil non et sapiente! Maxime minus alias sed deserunt ex accusantium aperiam sapiente voluptates eveniet impedit?"
+    },
+    {
+        "anrede": "Herr",
+        "name": "Matthias Claudius",
+        "ort": "Paris",
+        "geburtstag": "1990.02.27",
+        "motto": "Wo ein Wille ist, ist auch ein Weg.",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, pariatur veritatis iure expedita ducimus nihil non et sapiente! Maxime minus alias sed deserunt ex accusantium aperiam sapiente voluptates eveniet impedit?"
+    },
+  {
+        "anrede": "Frau",
+        "name": "Gertrud Kolmar",
+        "ort": "Bangkok",
+        "geburtstag": "1996.03.28",
+        "motto": "Glucklich ist allein die Selle, die liebt",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, pariatur veritatis iure expedita ducimus nihil non et sapiente! Maxime minus alias sed deserunt ex accusantium aperiam sapiente voluptates eveniet impedit?"
+    },
+  {
+        "anrede": "Herr",
+        "name": "Joseph von Eichendorff",
+        "ort": "Sylt",
+        "geburtstag": "1994.04.29",
+        "motto": "Gluck ist Selbstgenugsamkeit",
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, pariatur veritatis iure expedita ducimus nihil non et sapiente! Maxime minus alias sed deserunt ex accusantium aperiam sapiente voluptates eveniet impedit?"
+    }
+]
