@@ -1,0 +1,18 @@
+[
+    {
+        "anrede": "Frau",
+        "name": "Marie Luise Kaschnitz",
+        "ort": "Paris",
+        "geburtstag": "1995.01.26",
+        "motto": "Wer liebt, der lebt.",
+        "info": "<paste your data>"
+    },
+    {
+        "anrede": "Herr",
+        "name": "Matthias Claudius",
+        "ort": "Paris",
+        "geburtstag": "1990.02.27",
+        "motto": "Wo ein Wille ist, ist auch ein Weg.",
+        "info": "<paste your data 2>"
+    }
+]
