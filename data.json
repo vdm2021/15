@@ -5,7 +5,7 @@
         "ort": "Paris",
         "geburtstag": "1995.01.26",
         "motto": "Wer liebt, der lebt.",
-        "info": "<paste your data>"
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, pariatur veritatis iure expedita ducimus nihil non et sapiente! Maxime minus alias sed deserunt ex accusantium aperiam sapiente voluptates eveniet impedit?"
     },
     {
         "anrede": "Herr",
@@ -13,6 +13,6 @@
         "ort": "Paris",
         "geburtstag": "1990.02.27",
         "motto": "Wo ein Wille ist, ist auch ein Weg.",
-        "info": "<paste your data 2>"
+        "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, pariatur veritatis iure expedita ducimus nihil non et sapiente! Maxime minus alias sed deserunt ex accusantium aperiam sapiente voluptates eveniet impedit?"
     }
 ]
